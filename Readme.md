@@ -7,7 +7,7 @@ To run any model, follow the following instructions:
 2.Move the code files that are included in that particular model's folder into the folder "fold".  
 3.Run "main.py" file.  
 
-This team no. 1, The topic of our project is video analytics which is done under the guidance of Dr.Amit Singh.  
+This is team no. 1, The topic of our project is video analytics which is done under the guidance of Dr.Amit Singh.  
 
 Team members include:  
 Devansh Messon (500067983)  
