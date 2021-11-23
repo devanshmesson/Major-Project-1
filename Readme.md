@@ -1,6 +1,6 @@
 This is the complete source code for our Project named "Video Analytics".
 
-Link to YOLOv5.zip - 
+Link to YOLOv5.zip - https://drive.google.com/file/d/11ucQMOzrIybGvFZfulQwBIim5F3p9A0q/view?usp=sharing
 
 To run any model, follow the following instructions:
 1.unzip the "YOLOv5.zip" into a folder(lets say, fold)  
